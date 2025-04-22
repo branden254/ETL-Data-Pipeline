@@ -125,6 +125,6 @@ Feel free to open issues or submit pull requests for enhancements or bug fixes.
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 =======
-# ETL-Data-Pipeline
-This project implements an ETL (Extract, Transform, Load) pipeline designed to pull data from a SQL Server database, process and transform the data, and load it into either Excel files or back into the SQL Server for use in a Power BI dashboard.
+# ETL-Data-Pipeline-Listing Dashboard
+This project implements an ETL (Extract, Transform, Load) pipeline designed to pull data from a SQL Server database, process and transform the data, and load it into either Excel files or back into the SQL Server for use in my Power BI dashboard.
 >>>>>>> b29330dbaf6385bfecfb9aab648fc223dc82283d
