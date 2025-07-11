@@ -10,7 +10,7 @@ minima:
 markdown: kramdown
 
 url: "https://branden254.github.io/"
-baseurl: "TextAnalysis/"
+baseurl: "ETL-Data-Pipeline/"
 gem "github-pages", group: :jekyll_plugins
 
 github_username: branden254
